@@ -1,7 +1,7 @@
-- 👋 Opa, eu me chamo Raphael e tenho 22 anos!
-- 👀 Sou desenvolvedor Front-End;
-- 🌱 Atualmente faço faculdade de Gestão de TI;
-- 📫 Em caso de contato, favor encaminhar uma mensagem para +55 (21)99832-3783 OU raphaaelj.contato@gmail.com.
+- 👋 Hey there, welcome!
+- 👀 I'm Raphael Oliveira, Front-End Developer from **Rio de Janeiro, Brasil**.
+- 🌱 I'm currently learning PHP.
+- 👉🏻 Something about me: I'm also a biker and I love filming, gaming and traveling.
 
 <!---
 raphaaelj/raphaaelj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
